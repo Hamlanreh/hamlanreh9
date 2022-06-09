@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-## Hi, I'm Oluwabi Ahmed 🙌, I'm a Fullstack Web developer, coding and tech enthusiast. Apart from that I love getting involved in Problem Solving.❤✌
+## My name is Oluwabi Ahmed 🙌, I'm a Fullstack Web developer, a coding and tech enthusiast. Apart from that I also love getting involved in Problem Solving.❤✌
 
 **Talking about Personal Stuffs:**
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 **Community**
 - Freecodecamp
-- Fireship
 
 **Languages and Tools**
 - HTML
